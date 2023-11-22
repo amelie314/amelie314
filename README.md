@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![名字's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelie314&show_icons=true&theme=highcontrast)
+![名字's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelie314&show_icons=true&theme=dracula)
 
 <!--
 **amelie314/amelie314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
