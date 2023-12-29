@@ -21,7 +21,7 @@
 
 ## 🌐 Social Links
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/amelie314)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/amelie314?tab=repositories)
 - 📫 How to reach me: **b303101005@tmu.edu.tw**
 
 <!--
