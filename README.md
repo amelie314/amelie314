@@ -5,11 +5,11 @@
 </p>
 
 ## ✨ About Me
-I'm a passionate front-end engineer who transitioned into tech through self-study and a bootcamp. My background in pharmacy allowed me to contribute to public health policy during the COVID-19 pandemic. The success of the mask map project made me realize the power of technology to help others.  
+I'm a passionate front-end developer who transitioned into tech through self-study and a bootcamp. My background in pharmacy allowed me to contribute to public health policy during the COVID-19 pandemic. The success of the mask map project made me realize the power of technology to help others.  
 
 I love writing clean, well-documented, and standardized code, emphasizing the importance of naming conventions and code architecture. I'm enthusiastic about continuous improvement, often participating in technical book clubs to stay updated on best practices and innovative trends.  
 
-When I'm not coding, I enjoy reading, cycling, and hiking trails to find inspiration for new ideas. I believe in lifelong learning and love sharing valuable insights with the developer community. Let's connect and build something impactful together!  
+When I'm not coding, I enjoy reading 📖, cycling 🚴, and hiking trails 🥾 to find inspiration for new ideas. I believe in lifelong learning and love sharing valuable insights with the developer community. Let's connect and build something impactful together!  
 
 ## ⚒️ Skills ⚒️
 
