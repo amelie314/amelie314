@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css,javascript,github,vercel" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,python,flask,vscode,git,discord,ai,ps" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,python,flask,vscode,git,discord,ai" /><br>
 </div>
 
 ## 🌐 Social Links
