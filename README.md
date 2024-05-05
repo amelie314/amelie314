@@ -11,7 +11,7 @@
 - **Frameworks**: React, Next.js, Flask, Tailwind CSS
 - **Databases/Backend as a Service**: MySQL, Firebase
 - **Cloud Services/Development Tools**: Vercel, Git, GitHub, Visual Studio Code
-- **Design**: Adobe Illustrator (AI), Adobe Photoshop (PS)
+- **Design**: Adobe Illustrator (AI)
 - **Collaboration**: Discord
 
 <div align="center">
